@@ -1,5 +1,5 @@
 # Customized Breeze Login with username  & password
-<img src="https://github.com/X00Byte/Easymd5checksum/blob/main/repo_background.png" alt="Logo">
+<img src="https://github.com/X00Byte/Customized_Breeze/blob/main/repo_background.png" alt="Logo">
 ## الدليل بالغة العربية 
 
 Breeze هو نظام تحقق  يسمح للمستخدمين من إنشاء حسابات على تطبيقك
